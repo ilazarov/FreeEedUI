@@ -1,6 +1,6 @@
-ShmWebUI
+FreeEed Search UI
 ========
-Currently need apache-solr-3.6.1
+Currently need apache-solr-4.0
 
 To build a war file:
 
