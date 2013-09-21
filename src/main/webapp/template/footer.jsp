@@ -1,0 +1,1 @@
+<div class="footer_text">&copy; 2013 SHMSoft | FreeEed search | All Rights Reserved</div>
